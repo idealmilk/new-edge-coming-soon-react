@@ -20,7 +20,7 @@ class App extends React.Component {
         <div className="content">
           <div className="title-holder">
             <h1>Just a little longer...</h1>
-            <p>Website coming soon. Please check back to know more. Shoot us an email if you're curious.</p>
+            <p>Our new website is coming soon. Watch this space. Shoot us an email if you're curious.</p>
           </div>
           <a href="mailto:evan@newedgestud.io">
             <div className="cta">Send us an email</div>
